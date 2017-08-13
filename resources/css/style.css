@@ -8,7 +8,7 @@ h1 {
 }
 
 #header, #divider {
-  background-image: url("./resources/css/images/the-flatiron-building.png");
+  background-image: url("./css/images/the-flatiron-building.png");
   color: white !important;
 }
 
