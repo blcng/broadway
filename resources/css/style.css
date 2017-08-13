@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+#header, #divider {
+  background-image: url("./resources/images/the-flatriron-building.png");
+  color: white !important;
+}
+
+#navi {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+#processes p {
+  font-size: 14px;
+}
+
+#footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
